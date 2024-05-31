@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QR_CodeGenerator/1.0.0": {
+        "runtime": {
+          "QR_CodeGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QR_CodeGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
